@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "InstaClean ADB",
+  "description": "Instagram postlarini avtomatik o'chirish uchun premium-class qo'llanma va konfigurator ilovasi",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
